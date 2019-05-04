@@ -1,0 +1,9 @@
+@keyframes spin-logo {
+    0% {
+        transform: perspective(500px) rotate(0deg) rotate3d(0, 1, 0, 0);
+    }
+
+    100% {
+        transform: perspective(500px) rotate(360deg) rotate3d(0, 1, 0, 360deg)
+    }
+}

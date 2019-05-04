@@ -1,0 +1,29 @@
+// font
+$font-title: 'Montserrat',
+sans-serif;
+$font-description: 'Roboto Slab',
+sans-serif;
+// font size
+$f-xl :calc(30px + (60 - 30) * ((100vw - 320px) / (1920 - 320)));
+$f-xl-mq: calc(60rem / 16);
+
+$f-l:calc(25px + (40 - 25) * ((100vw - 320px) / (1920 - 320)));
+$f-l-mq: calc(40rem / 16);
+
+$f-l-m: calc(18px + (22 - 18) * ((100vw - 320px) / (1920 - 320)));
+$f-l-m-mq: calc(22rem / 16);
+
+$f-m: calc(16px + (20 - 16) * ((100vw - 320px) / (1920 - 320)));
+$f-m-mq: calc(20rem / 16);
+
+$f-s: calc(15px + (18 - 15) * ((100vw - 320px) / (1920 - 320)));
+$f-s-mq: calc(18rem / 16);
+
+$f-ss: calc(14px + (16 - 14) * ((100vw - 320px) / (1920 - 320)));
+$f-ss-mq: calc(16rem / 16);
+
+$f-xs: calc(12px + (14 - 12) * ((100vw - 320px) / (1920 - 320)));
+$f-xs-mq: calc(14rem / 16);
+
+$f-xxs: calc(10px + (12 - 10) * ((100vw - 320px) / (1920 - 320)));
+$f-xxs-mq: calc(12rem / 16);
